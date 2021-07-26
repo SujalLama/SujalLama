@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SujalLama
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning graphql.
-- 💞️ I’m looking to collaborate on web dev projects.
 - 📫 How to reach me lsujal41@gmail.com
 
 <!---
