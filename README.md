@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SujalLama
-- 👀 I’m interested in web and mobile development.
+- 👀 I’m web and mobile enthusiast.
 - 📫 How to reach me lsujal41@gmail.com
 
 <!---
